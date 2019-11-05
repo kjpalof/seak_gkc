@@ -83,3 +83,8 @@ reproductive potential of the stock.
 * Logbooks
 * Port sampling (length, weight, sex, & maturity)
 * Observer Program (1998-2016)
+
+
+
+# Running code/options
+Need to add an output folder to the main directory
